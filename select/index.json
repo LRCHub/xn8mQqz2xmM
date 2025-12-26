@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "HOT SAUCE",
+  "base_artist": "BABYMONSTER",
+  "createdAt": "2025-12-26T10:14:43.458324Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Hot Sauce",
+      "artist": "Breland",
+      "has_synced": true,
+      "path": "select/01_Hot_Sauce_Breland.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Louisiana Hot Sauce",
+      "artist": "Sammy Kershaw",
+      "has_synced": false,
+      "path": "select/02_Louisiana_Hot_Sauce_Sammy_Kershaw.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Hot Sauce (feat. Lil Tjay)",
+      "artist": "YNW Bslime",
+      "has_synced": false,
+      "path": "select/03_Hot_Sauce_(feat._Lil_Tjay)_YNW_Bslime.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Hot Sauce",
+      "artist": "Thomas Dolby",
+      "has_synced": true,
+      "path": "select/04_Hot_Sauce_Thomas_Dolby.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Hot Sauce - Extended Version",
+      "artist": "Thomas Dolby",
+      "has_synced": true,
+      "path": "select/05_Hot_Sauce_-_Extended_Version_Thomas_Dolby.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Hot Sauce (Extended Version)",
+      "artist": "Dolby, Thomas",
+      "has_synced": false,
+      "path": "select/06_Hot_Sauce_(Extended_Version)_Dolby,_Thomas.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Hot Sauce",
+      "artist": "DJ Blyatman",
+      "has_synced": true,
+      "path": "select/07_Hot_Sauce_DJ_Blyatman.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Louisiana Hot Sauce Rainy Nights",
+      "artist": "The Taxpayers",
+      "has_synced": false,
+      "path": "select/08_Louisiana_Hot_Sauce_Rainy_Nights_The_Taxpayers.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Hot Sauce",
+      "artist": "NCT DREAM",
+      "has_synced": true,
+      "path": "select/09_Hot_Sauce_NCT_DREAM.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "맛 Hot Sauce",
+      "artist": "NCT DREAM",
+      "has_synced": true,
+      "path": "select/10_맛_Hot_Sauce_NCT_DREAM.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Hot Sauce",
+      "artist": "Travis Scott feat. PARTYNEXTDOOR",
+      "has_synced": true,
+      "path": "select/11_Hot_Sauce_Travis_Scott_feat._PARTYNEXTDOOR.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Hot Sauce (Ft. PartyNextDoor)",
+      "artist": "Travi$ Scott",
+      "has_synced": true,
+      "path": "select/12_Hot_Sauce_(Ft._PartyNextDoor)_Travi$_Scott.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "맛 (Hot Sauce)",
+      "artist": "NCT DREAM",
+      "has_synced": true,
+      "path": "select/13_맛_(Hot_Sauce)_NCT_DREAM.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Hot Sauce - Hitchhiker Remix",
+      "artist": "NCT DREAM feat. Hitchhiker",
+      "has_synced": true,
+      "path": "select/14_Hot_Sauce_-_Hitchhiker_Remix_NCT_DREAM_feat._Hitchhiker.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "맛 (Hot Sauce) (Hitchhiker Remix)",
+      "artist": "NCT DREAM",
+      "has_synced": true,
+      "path": "select/15_맛_(Hot_Sauce)_(Hitchhiker_Remix)_NCT_DREAM.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "HOT SAUCE",
+      "artist": "BABYMONSTER",
+      "has_synced": false,
+      "path": "select/pl_01_HOT_SAUCE_BABYMONSTER.txt"
+    }
+  ]
+}
